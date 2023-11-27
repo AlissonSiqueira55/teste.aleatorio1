@@ -1,0 +1,15 @@
+#tec{
+    color: black;
+}
+#tec h1{
+    color:black;
+}
+
+#tec li{
+    background-color: rgb(0, 140, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 200px; /* ajusta a largura automaticamente */
+    height: 200px; /* altura fixa de 150 pixels */
+}
